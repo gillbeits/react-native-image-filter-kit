@@ -34,8 +34,6 @@ blueprint-templates/
 
 .vscode/
 
-dist/
-
 **/index.android.bundle
 
 **/infer-out
